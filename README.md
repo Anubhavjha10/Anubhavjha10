@@ -1,3 +1,4 @@
+![logo](https://github.com/Anubhavjha10/Anubhavjha10/blob/main/Blue%20Modern%20Technology%20Linkedln%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Kumar Anubhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
